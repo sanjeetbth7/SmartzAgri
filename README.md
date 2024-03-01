@@ -3,7 +3,7 @@
 SmartzAgri is an innovative agricultural solution designed to revolutionize traditional farming practices by providing personalized and data-driven recommendations for crop cultivation. Leveraging advanced technologies, including machine learning algorithms and Internet of Things (IoT) devices, CropReco empowers farmers with precise insights and suggestions to optimize yield and profitability while promoting sustainable farming practices.
 
 <a href="https://smartzagri.onrender.com/"><img src="https://github.com/sanjeetbth7/SmartzAgri/blob/master/public/images/logo.png" alt="CropReco Logo" width="150" height="150"></a>
-**WEBSITE :**  https://smartzagri.onrender.com/
+<h1>**WEBSITE :**  https://smartzagri.onrender.com/</h1>
 
 
 ## Team Members ( Infinite Void )

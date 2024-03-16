@@ -1,4 +1,4 @@
-# SmartzAgri : Empowering Farmers with Precision Agriculture
+# SmartzAgri: A ML-IoT aware Crop Recommendation System for Future Generation Agriculture 
 
 SmartzAgri is an innovative agricultural solution designed to revolutionize traditional farming practices by providing personalized and data-driven recommendations for crop cultivation. Leveraging advanced technologies, including machine learning algorithms and Internet of Things (IoT) devices, CropReco empowers farmers with precise insights and suggestions to optimize yield and profitability while promoting sustainable farming practices.
 

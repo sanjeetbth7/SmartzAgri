@@ -4,7 +4,8 @@ SmartzAgri is an innovative agricultural solution designed to revolutionize trad
 
 <a href="https://smartzagri.onrender.com/"><img src="https://github.com/sanjeetbth7/SmartzAgri/blob/master/public/images/logo.png" alt="CropReco Logo" width="150" height="150"></a>
 <h3>**WEBSITE :**  https://smartzagri.onrender.com/</h3>
-
+## DATA SOURCE 📊
+- [Crop recommendation dataset ](https://www.kaggle.com/atharvaingle/crop-recommendation-dataset) (custom built dataset)
 
 ## Team Members ( Infinite Void )
 - **Vishal Kumar Patel** 

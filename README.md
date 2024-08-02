@@ -4,8 +4,7 @@ SmartzAgri is an innovative agricultural solution designed to revolutionize trad
 
 <a href="https://smartzagri.onrender.com/"><img src="https://github.com/sanjeetbth7/SmartzAgri/blob/master/public/images/logo.png" alt="CropReco Logo" width="150" height="150"></a>
 <h3>**WEBSITE :**  https://smartzagri.onrender.com/</h3>
-## DATA SOURCE 📊
-- [Crop recommendation dataset ](https://www.kaggle.com/atharvaingle/crop-recommendation-dataset) (custom built dataset)
+
 
 ## Team Members ( Infinite Void )
 - **Vishal Kumar Patel** 
@@ -21,6 +20,9 @@ SmartzAgri is an innovative agricultural solution designed to revolutionize trad
 - Backend :  node.js , express.js, 
 - ML : python
 - Database :  mongoDB
+
+## DATA SOURCE 📊
+- [Crop recommendation dataset ](https://www.kaggle.com/atharvaingle/crop-recommendation-dataset) (custom built dataset)
 
 # Getting Started
 Follow these instructions to get a copy of the Employee Management System project up and running on your local machine for development and testing purposes.

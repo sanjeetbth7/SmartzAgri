@@ -26,7 +26,7 @@ mongoose.set('strictQuery', true);
 
 // MongoDB atlas database
 const DBurl = process.env.databaseURL;
-
+// console.log(DBurl);
 mongoose.connect(DBurl).then(() => {
   console.log("Connected to the database!");
 });

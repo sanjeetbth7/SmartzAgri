@@ -62,7 +62,7 @@
     }
 
     .form-container{
-        width: 86%;
+        width: fit-content;
     }
     .feature{
         width: 80%;

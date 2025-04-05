@@ -39,7 +39,7 @@ const Navbar = () => {
       <div className="flex items-center space-x-3">
         <img src="/logo.png" alt="logo" className="h-10" />
         <strong className="text-lg font-semibold">
-          <Link to="/">SmartAgri</Link>
+          <Link to="/">SmartzAgri</Link>
         </strong>
       </div>
 

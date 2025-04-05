@@ -1,9 +1,9 @@
 const About = () => {
     return (
       <div className="min-h-screen bg-gray-100 p-10 text-center">
-        <h1 className="text-3xl font-bold text-green-700">About SmartAgri</h1>
+        <h1 className="text-3xl font-bold text-green-700">About SmartzAgri</h1>
         <p className="mt-6 text-lg text-gray-700 leading-relaxed">
-          Welcome to <span className="font-semibold text-green-600">SmartAgri</span>, your go-to platform for 
+          Welcome to <span className="font-semibold text-green-600">SmartzAgri</span>, your go-to platform for 
           <span className="font-semibold"> data-driven crop recommendations</span> powered by <span className="font-semibold">advanced Machine Learning models</span>. 
           Our mission is to revolutionize agriculture by providing farmers with actionable insights that maximize yield, optimize investments, and ensure 
           sustainable farming practices.
@@ -54,12 +54,12 @@ const About = () => {
   
         <h2 className="mt-10 text-2xl font-semibold text-green-700">Our Vision</h2>
         <p className="mt-4 text-lg text-gray-700 leading-relaxed">
-          At <span className="font-semibold text-green-600">SmartAgri</span>, we believe in empowering farmers with the right <span className="font-semibold">technology and knowledge</span> to make 
+          At <span className="font-semibold text-green-600">SmartzAgri</span>, we believe in empowering farmers with the right <span className="font-semibold">technology and knowledge</span> to make 
           informed decisions. By combining <span className="font-semibold">Machine Learning-powered recommendations</span>, <span className="font-semibold">real-time weather forecasting</span>, 
           and <span className="font-semibold">detailed financial insights</span>, we aim to make agriculture more <span className="font-semibold">efficient, profitable, and sustainable</span>.
         </p>
   
-        <p className="mt-6 text-lg font-semibold text-green-600">Join us in shaping the future of smart farming with SmartAgri! 🌿🚜</p>
+        <p className="mt-6 text-lg font-semibold text-green-600">Join us in shaping the future of smart farming with SmartzAgri! 🌿🚜</p>
       </div>
     );
   };
